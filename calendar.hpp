@@ -8,7 +8,7 @@
 #include <cstdlib>
 
 
-class calendar{
+class Calendar{
 
 private:
 std::string Name;

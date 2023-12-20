@@ -11,6 +11,8 @@ int main(int argv , char* argc){
 
     int selection;
 
+    Calendar calendar();
+
     switch(selection){
         case 1 : 
         
